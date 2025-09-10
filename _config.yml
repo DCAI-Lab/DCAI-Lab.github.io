@@ -23,7 +23,7 @@ repository               : "DCAI-Lab/DCAI-Lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Korea-University.jpg"
   name             : "DCAI-Lab"
   pronouns         : # example: "she/her"  
   bio              : "Data-Centric AI Lab @ Korea University, Department of Computer Science and Engineering"
