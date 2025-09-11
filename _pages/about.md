@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to DCAI-Lab @ Korea University !"
+title: "Welcome to DCAI-Lab @ <span style="color:862633">Korea University</span>!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ From a data-centric standpoint, our research interests include data-efficient le
 Latest News
 ------
 - A paper on subject-driven text-to-image generative model was posted at arXiv.
-- A paper on vision-language model was accepted at CVPR 2025
+- A paper on vision-language model was accepted at ICCV 2025.
 - A paper on fine-tuning text-to-image generative model was posted at arXiv.
-- A paper on large vision language model was accepted at NAACL 2024
+- A paper on large vision language model was accepted at NAACL 2024.
 - DCAI Lab @ Korea University is launched!
