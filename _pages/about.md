@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to DCAI-Lab @ <span style="color:862633">Korea University</span>!"
+title: "Welcome to DCAI-Lab @ Korea University!"
 author_profile: true
 redirect_from: 
   - /about/
